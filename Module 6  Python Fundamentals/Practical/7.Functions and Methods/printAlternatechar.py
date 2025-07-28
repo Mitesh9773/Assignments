@@ -2,7 +2,7 @@
 # string starting from index 1.
 
 def printString(name):
-    for i in name:
+    for i in name[1::2]:
         print(i)
 
 firatName = "Mitesh"
