@@ -5,5 +5,5 @@ def printString(name):
     for i in name[1::2]:
         print(i)
 
-firatName = "Mitesh"
-printString(firatName)
+firstName = "Mitesh"
+printString(firstName)
